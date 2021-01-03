@@ -1,4 +1,7 @@
-# ![MDTeX](img/MDTeX.png) MDTeX
+# MDTeX for Visual Studio Code
+
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/MrF3lix.mdtex?label=vscode%20marketplace)
+![GitHub](https://img.shields.io/github/license/MrF3lix/mdtex)
 
 **MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
 
@@ -13,9 +16,11 @@
 
 This extension contributes the following settings:
 
-- `mdtex.delimiters`: Sets the math formula delimiters. Default `"dollars"`.
-- `mdtex.autoSaveAsHtml`: Automatically generates HTML from MD files. Default `true`.
-- `mdtex.autoSaveAsHtmlDir`: Path to save the generated HTML to, relative to the source file. Default `""`.
-- `mdtex.codeHighlightStylesheet`: Code highlight stylesheet. Default `"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github-gist.min.css"`.
-- `mdtex.markdownStylesheet`: Markdown stylesheet. Default `"https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css"`.
-- `mdtex.customStylesheet`: Custom styles sheet, recommended to use absolute paths. Default `""`.
+|Name|Description|Default Value|
+|-|-|-|
+|`mdtex.delimiters`|Sets the math formula delimiters|`dollars`|
+|`mdtex.autoSaveAsHtml`|Automatically generates HTML from MD files|`false`|
+|`mdtex.autoSaveAsHtmlDir`|Path to save the generated HTML to, relative to the source file|`""`|
+|`mdtex.codeHighlightStylesheet`|Code highlight stylesheet|`https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github-gist.min.css`|
+|`mdtex.markdownStylesheet`|Markdown stylesheet|`https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css`|
+|`mdtex.customStylesheet`|Custom styles sheet|`""`|

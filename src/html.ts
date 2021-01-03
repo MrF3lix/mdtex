@@ -29,22 +29,6 @@ const htmlTemplate = (documentTitle: any, content: any) => `
     <link rel="stylesheet" href="${getConfigItem('codeHighlightStylesheet')}" />
     <link rel="stylesheet" href="${getConfigItem('markdownStylesheet')}" />
     <link rel="stylesheet" href="${getConfigItem('customStylesheet')}" />
-    <style>
-        @media print {
-            .markdown-body * {
-                font-size: 0.9em;
-            }
-            .markdown-body h1 {
-                font-size: 1.7rem;
-            }
-            .markdown-body h2 {
-                font-size: 1.5rem;
-            }
-            .markdown-body h3 {
-                font-size: 1.2rem;
-            }
-        }
-    </style>
     <meta charset="UTF-8">
     <title>${documentTitle}</title>
 </head>

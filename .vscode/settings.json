@@ -16,5 +16,7 @@
         "katex",
         "mdtex",
         "texmath"
-    ]
+    ],
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+    "mdtex.autoSaveAsHtml": false
 }

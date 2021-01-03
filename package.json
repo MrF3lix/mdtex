@@ -2,7 +2,7 @@
 	"name": "mdtex",
 	"displayName": "MDTeX",
 	"description": "Markdown \\w TeX Support",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": "Felix Saaro",
 	"icon": "img/MDTex.png",
@@ -43,7 +43,7 @@
 				},
 				"mdtex.autoSaveAsHtml": {
 					"type": "boolean",
-					"default": true,
+					"default": false,
 					"description": "Auto save as HTML."
 				},
 				"mdtex.autoSaveAsHtmlDir": {
