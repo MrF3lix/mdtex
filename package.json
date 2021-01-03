@@ -3,9 +3,27 @@
 	"displayName": "MDTeX",
 	"description": "Markdown \\w TeX Support",
 	"version": "1.0.0",
+	"license": "MIT",
+	"author": "Felix Saaro",
+	"icon": "img/MDTex.png",
+	"homepage": "https://github.com/MrF3lix/mdtex/blob/master/readme.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MrF3lix/mdtex.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MrF3lix/mdtex/issues"
+	},
+	"publisher": "MrF3lix",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
+	"keywords": [
+		"TeX",
+		"LaTeX",
+		"markdown",
+		"math"
+	],
 	"categories": [
 		"Other"
 	],

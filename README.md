@@ -1,4 +1,4 @@
-# MDTeX
+# ![MDTeX](img/MDTeX.png) MDTeX
 
 **MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
 
