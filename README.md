@@ -1,8 +1,8 @@
 # MDTeX for Visual Studio Code
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/MrF3lix.mdtex?label=vscode%20marketplace)
-![GitHub](https://img.shields.io/github/license/MrF3lix/mdtex)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MrF3lix/mdtex/CI)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/MrF3lix.mdtex?label=vscode%20marketplace)](https://marketplace.visualstudio.com/items?itemName=MrF3lix.mdtex)
+[![GitHub](https://img.shields.io/github/license/MrF3lix/mdtex)](https://github.com/MrF3lix/mdtex)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MrF3lix/mdtex/CI)](https://github.com/MrF3lix/mdtex/actions)
 
 **MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
 
