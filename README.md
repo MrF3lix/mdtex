@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/license/MrF3lix/mdtex)](https://github.com/MrF3lix/mdtex)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MrF3lix/mdtex/CI)](https://github.com/MrF3lix/mdtex/actions)
 
-**MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
+![MDTeX Logo](https://raw.githubusercontent.com/MrF3lix/mdtex/main/img/MDTeX.png) **MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
 
 ## Features
 
@@ -17,7 +17,7 @@
 
 Use the defined delimiters to wrap your math formulas.
 
-![How to use](./img/tex-demo-fast.gif)
+![How to use](https://raw.githubusercontent.com/MrF3lix/mdtex/main/img/tex-demo-fast.gif)
 
 ## Extension Settings
 
