@@ -4,7 +4,11 @@
 [![GitHub](https://img.shields.io/github/license/MrF3lix/mdtex)](https://github.com/MrF3lix/mdtex)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MrF3lix/mdtex/CI)](https://github.com/MrF3lix/mdtex/actions)
 
-![MDTeX Logo](https://raw.githubusercontent.com/MrF3lix/mdtex/main/img/MDTeX-logo.png) **MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/MrF3lix/mdtex/main/img/MDTeX-logo.png" alt="MDTeX Logo">
+</div>
+
+**MDTeX** allows to write math formulas using TeX inside Markdown and preview them using the Visual Studio Code Markdown previewer.
 
 ## Features
 
