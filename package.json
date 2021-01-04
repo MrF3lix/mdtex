@@ -5,7 +5,7 @@
 	"version": "1.0.2",
 	"license": "MIT",
 	"author": "Felix Saaro",
-	"icon": "img/MDTex.png",
+	"icon": "img/MDTeX-logo.png",
 	"homepage": "https://github.com/MrF3lix/mdtex/blob/master/readme.md",
 	"repository": {
 		"type": "git",
